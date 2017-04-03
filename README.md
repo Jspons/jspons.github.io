@@ -1,2 +1,2 @@
-# jspons.github.oi
+# jspons.github.io
 My Website Repository
